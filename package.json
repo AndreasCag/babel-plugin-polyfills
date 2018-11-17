@@ -1,0 +1,31 @@
+{
+  "name": "babel-plugin-polyfills",
+  "version": "1.0.0",
+  "description": "Babel plugin for polyfill management",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasCag/babel-plugin-polyfills.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "polyfills",
+    "babel-polyfills",
+    "polyfill"
+  ],
+  "author": "AndreasCag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreasCag/babel-plugin-polyfills/issues"
+  },
+  "homepage": "https://github.com/AndreasCag/babel-plugin-polyfills#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
